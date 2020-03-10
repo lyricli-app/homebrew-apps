@@ -1,4 +1,4 @@
-class Lyricli030 < Formula
+class Lyricli100 < Formula
   desc "Lyrics fetcher for the command-line"
   homepage "https://lyricli-app.github.io/lyricli"
   url "https://github.com/lyricli-app/lyricli/releases/download/1.0.0/lyricli-osx-1.0.0.zip"

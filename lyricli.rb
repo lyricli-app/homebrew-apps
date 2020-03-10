@@ -1,8 +1,8 @@
 class Lyricli < Formula
   desc "Lyrics fetcher for the command-line"
   homepage "https://lyricli-app.github.io/lyricli"
-  url "https://github.com/lyricli-app/lyricli/releases/download/0.3.0/lrc-0.3.0-osx.zip"
-  sha256 "ee8f157a9b1d4e6356925aefab1b7ff3c31fd060999c20e750229536a83f99ee"
+  url "https://github.com/lyricli-app/lyricli/releases/download/1.0.0/lyricli-osx-1.0.0.zip"
+  sha256 "d925f85308d8993db3b66c47d3b2163d6fbd07e43e370addf777cfe6856034e4"
 
   def install
     bin.install "lrc"
